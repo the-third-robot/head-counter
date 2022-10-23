@@ -1,0 +1,43 @@
+body{
+   background-image: url("./Images/hongkong-china-november-2019-people-enter-train-on-railway-platform-at-mtr-station-subway-train-station-in-hongkong-2APA385.jpg"); 
+   background-size:cover;
+   background-repeat: no-repeat;
+   font-family: 'Times New Roman', Times, serif;
+   text-align: center;
+   display: flex;
+   flex-direction: column;
+}
+
+button{
+    border-radius: 5rem;
+    background-color:hsl(220, 23%, 97%);
+    padding: 20px;
+    font-size: medium;
+    font-weight:bold;
+    color:rgb(7, 7, 7);  
+    border-color: rgb(3, 6, 12);
+    margin-top: 10px;
+}
+button:hover{
+    background-color: rgb(102, 103, 104);
+    border-color: rgb(49, 49, 50);
+    
+}
+h1{
+    
+    font-size: 5rem;
+}
+h2{
+    font-size: 5rem;
+}
+marquee{
+    margin-top: 1rem;
+    color: rgb(8, 8, 8);
+    font-size: 2rem;
+    font-weight: bold;
+    background-color: skyblue;
+    border-radius: 5rem;
+}
+h3{
+    color: white;
+}
